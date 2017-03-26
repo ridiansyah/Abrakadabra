@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wahyuridiansyah/AndroidStudioProjects/Abrakadabra/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810b98c04fcfbd883b68abbcefa348aef2924945">
+        <dex dex="/Users/wahyuridiansyah/AndroidStudioProjects/Abrakadabra/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76ae2d438adb0d6aa1d946edcc3af20200a03c4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wahyuridiansyah/AndroidStudioProjects/Abrakadabra/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/wahyuridiansyah/AndroidStudioProjects/Abrakadabra/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_756496c82579174e255d4db0d911581302b9f9f9/classes.dex" />
+    </item>
+
+</items>
